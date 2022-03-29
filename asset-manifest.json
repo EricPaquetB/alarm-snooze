@@ -1,16 +1,15 @@
 {
   "files": {
     "main.css": "/alarm-snooze/static/css/main.073c9b0a.css",
-    "main.js": "/alarm-snooze/static/js/main.e75881c3.js",
+    "main.js": "/alarm-snooze/static/js/main.a14dba81.js",
     "static/js/787.39ec7037.chunk.js": "/alarm-snooze/static/js/787.39ec7037.chunk.js",
-    "static/media/logo.svg": "/alarm-snooze/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/alarm-snooze/index.html",
     "main.073c9b0a.css.map": "/alarm-snooze/static/css/main.073c9b0a.css.map",
-    "main.e75881c3.js.map": "/alarm-snooze/static/js/main.e75881c3.js.map",
+    "main.a14dba81.js.map": "/alarm-snooze/static/js/main.a14dba81.js.map",
     "787.39ec7037.chunk.js.map": "/alarm-snooze/static/js/787.39ec7037.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e75881c3.js"
+    "static/js/main.a14dba81.js"
   ]
 }
